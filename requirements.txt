@@ -1,0 +1,9 @@
+adafruit_debouncer
+adafruit_macropad
+adafruit_simple_text_display
+neopixel
+adafruit_imageload
+adafruit_midi
+adafruit_display_shapes
+adafruit_display_text
+adafruit_hid
